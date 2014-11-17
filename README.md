@@ -14,14 +14,15 @@ Licence :  WTFPL
 http://www.wtfpl.net/
 
 Requierements :
-To run this extension you need : python-imaging python-nautilus python-pyexiv2
+
+- python-imaging python-nautilus python-pyexiv2
 
 Installation :
 
-Copy this script in your ~/.local/share/nautilus-python/extensions/
+- Copy this script in your ~/.local/share/nautilus-python/extensions/
 
-Kill Nautilus if already running : nautilus -q
+- Kill Nautilus if already running : nautilus -q
 
-Open Nautilus explorer window and go in Edit/preferences/Columns list to check the new columns you want to display
+- Open Nautilus explorer window and go in Edit/preferences/Columns list to check the new columns you want to display
 
-Browse a directory cointaining images, choose list as display mode to show columns
+- Browse a directory cointaining images, choose list as display mode to show columns
